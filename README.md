@@ -19,7 +19,15 @@ Fetches weather reports for airport codes and displays them in a list.
 
 ---
 
-### API Endpoint
+<img alt="Simulator Screenshot - iPhone 17 Pro - 2025-12-15 at 09 54 10" src="https://github.com/user-attachments/assets/cba0de79-0624-4293-a405-aa297d3fb027" width="400"/>
+
+<img alt="Simulator Screenshot - iPhone 17 Pro - 2025-12-15 at 09 54 32" src="https://github.com/user-attachments/assets/e7ca7618-bc91-49e1-b1f4-2cf57f4607f0" width="400"/>
+<img alt="Simulator Screenshot - iPhone 17 Pro - 2025-12-15 at 09 54 25" src="https://github.com/user-attachments/assets/fa04f3a2-c727-487b-a875-c4dd4c52d769" width="400"/>
+
+<img alt="Simulator Screenshot - iPhone 17 Pro - 2025-12-15 at 09 54 40" src="https://github.com/user-attachments/assets/7eec66aa-1598-4d5b-9a77-77d2226b0908" width="400"/>
+
+---
+
 
 - Endpoint: `https://qa.foreflight.com/weather/report/<Airport identifier>`
 - Required HTTP header: `ff-coding-exercise: 1`
